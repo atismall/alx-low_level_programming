@@ -1,9 +1,7 @@
-#include main.h
+#include "main.h"
+#include <stdio.h>
 
-/*
- ** This is a function that reset input number to 98
-*/
-void reset_to_98(int *n)
+void reset_to_98(int* a)
 {
-	*n = 98;
+*a = 98;
 }
