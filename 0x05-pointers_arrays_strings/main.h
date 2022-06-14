@@ -10,4 +10,5 @@ void puts2(char *st);
 void puts_half(char *st);
 void print_array(int *a, int b);
 char *_strcpy(char *dest, char *src);
+int _atoi(char *s);
 #endif
